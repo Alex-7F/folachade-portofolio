@@ -10,7 +10,7 @@ export default function Contact() {
           Contact
         </h2>
         <p className="text-center text-gray-400 mb-16 max-w-2xl mx-auto">
-          Vous avez un projet en tête ? N'hésitez pas à me contacter
+          {"Vous avez un projet en tête ? N'hésitez pas à me contacter"}
         </p>
 
         <div className="grid md:grid-cols-2 gap-8">
@@ -125,7 +125,7 @@ export default function Contact() {
         {/* Footer */}
         <div className="mt-16 pt-8 border-t border-gray-800 text-center">
           <p className="text-gray-400">
-            © {new Date().getFullYear()} Folachadé Alex CAPO-CHICHI. Tous droits réservés.
+            {"© "}{new Date().getFullYear()}{" Folachadé Alex CAPO-CHICHI. Tous droits réservés."}
           </p>
         </div>
       </div>

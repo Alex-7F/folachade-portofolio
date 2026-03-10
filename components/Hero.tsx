@@ -22,7 +22,7 @@ export default function Hero() {
           </p>
           
           <p className="text-lg text-gray-400 max-w-2xl mx-auto mb-12 leading-relaxed">
-            Je conçois des écosystèmes numériques performants au croisement du <span className="text-blue-400 font-semibold">Développement Fullstack</span>, de l'<span className="text-blue-400 font-semibold">Intelligence Artificielle</span> et de la <span className="text-blue-400 font-semibold">Cybersécurité</span>.
+            {"Je conçois des écosystèmes numériques performants au croisement du "}<span className="text-blue-400 font-semibold">Développement Fullstack</span>{", de l'"}<span className="text-blue-400 font-semibold">Intelligence Artificielle</span>{" et de la "}<span className="text-blue-400 font-semibold">Cybersécurité</span>.
           </p>
 
           <div className="flex justify-center gap-6 mb-12">
