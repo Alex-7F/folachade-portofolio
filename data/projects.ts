@@ -19,7 +19,7 @@ export const projects: Project[] = [
     longDescription: "Plateforme complète d'automatisation permettant de créer des workflows entre différents services. Développement intégral du client Mobile avec React Native, implémentation des flux OAuth2 pour Google et GitHub, et intégration d'API tierces pour la synchronisation des triggers (Actions/Réactions).",
     technologies: ["React Native", "Django", "OAuth2", "Docker", "PostgreSQL", "REST API"],
     category: "Fullstack Web & Mobile",
-    github: "https://github.com/Alex-7F/AREA",
+    github: "https://github.com/Alex-7F/AREA_PROJECT",
     featured: true,
   },
   {
@@ -29,7 +29,7 @@ export const projects: Project[] = [
     longDescription: "Création d'un moteur de réseau de neurones complet gérant la rétropropagation, entraînement d'un modèle pour l'analyse d'états d'un échiquier (Chessboard Analyzer), et optimisation des hyperparamètres pour éviter l'overfitting. Projet démontrant une maîtrise approfondie des mathématiques du Deep Learning.",
     technologies: ["Python", "Mathematics", "Supervised Learning", "Neural Networks", "Backpropagation"],
     category: "AI & Algorithms",
-    github: "https://github.com/Alex-7F/My_Torch",
+    github: "https://github.com/Alex-7F/Neuronal-network",
     featured: true,
   },
   {
@@ -39,7 +39,7 @@ export const projects: Project[] = [
     longDescription: "Exploitation de failles critiques du Top 10 OWASP (Injections SQL, XSS, SSRF, SSTI). Mise en place de pivots réseau complexes via SSH Tunneling et Reverse Port Forwarding. Escalade de privilèges (PrivEsc) sur des environnements Linux compromis avec rédaction de rapports de remédiation détaillés.",
     technologies: ["TryHackMe", "Burp Suite", "SQLmap", "SSH Tunneling", "OWASP", "Linux"],
     category: "Cybersecurity",
-    github: "https://github.com/Alex-7F/Chisel-Burp",
+    github: "https://github.com/Alex-7F/Challenge-Chiesel-Cybersecurity",
     featured: true,
   },
   {
@@ -49,7 +49,7 @@ export const projects: Project[] = [
     longDescription: "Plateforme CI/CD capable d'auto-détecter les technologies des projets. Orchestration de clusters Kubernetes pour le déploiement dynamique d'images conteneurisées. Automatisation de la configuration via Jenkins Configuration as Code (JCasC) avec support multi-langages.",
     technologies: ["Jenkins", "Kubernetes", "Docker", "Ansible", "Groovy", "JCasC"],
     category: "DevOps & Cloud",
-    github: "https://github.com/Alex-7F/Whanos",
+    github: "https://github.com/Alex-7F/whanos_project",
     featured: true,
   },
   {
@@ -59,7 +59,7 @@ export const projects: Project[] = [
     longDescription: "Développement de jeux (Snake et Nibbler) en utilisant plusieurs interfaces graphiques. Implémentation de wrappers pour ncurses et SFML chargés au runtime via dlopen/dlsym. Architecture modulaire permettant l'ajout de jeux sans recompiler le noyau avec système de plugins dynamiques.",
     technologies: ["C++", "ncurses", "SFML", "Dynamic Libraries", "dlopen", "Design Patterns"],
     category: "System & C++",
-    github: "https://github.com/Alex-7F/Arcade",
+    github: "https://github.com/Alex-7F/arcade_game",
     featured: false,
   },
   {
@@ -69,7 +69,7 @@ export const projects: Project[] = [
     longDescription: "Lead Gameplay Developer : Architecture ECS (Entity Component System) pour la gestion des entités. Développement d'un protocole binaire customisé sur UDP pour la synchronisation temps-réel. Gestion du mouvement latéral et de la prédiction côté client (Client-Side Prediction) pour une expérience multijoueur fluide.",
     technologies: ["C++", "UDP/TCP Sockets", "ECS Architecture", "Network Programming", "Game Engine"],
     category: "System & Networking",
-    github: "https://github.com/Alex-7F/R-Type",
+    github: "https://github.com/Alex-7F/RTYPE_ENGINE",
     featured: false,
   },
   {
@@ -79,7 +79,7 @@ export const projects: Project[] = [
     longDescription: "Implémentation des algorithmes RSA (asymétrique) et AES/XOR (symétrique). Gestion précise de l'arithmétique sur grands nombres pour la génération de clés sécurisées avec la bibliothèque GMP. Conception d'une interface CLI pour le chiffrement/déchiffrement de flux de données avec support des opérations cryptographiques avancées.",
     technologies: ["C++", "GMP Library", "RSA", "AES", "Cryptography", "CLI"],
     category: "Cybersecurity",
-    github: "https://github.com/Alex-7F/My_PGP",
+    github: "https://github.com/Alex-7F/PGP-Cryptographie-",
     featured: false,
   },
 ];
