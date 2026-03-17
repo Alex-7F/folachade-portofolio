@@ -20,6 +20,7 @@ export const projects: Project[] = [
     technologies: ["React Native", "Django", "OAuth2", "Docker", "PostgreSQL", "REST API"],
     category: "Fullstack Web & Mobile",
     github: "https://github.com/Alex-7F/AREA_PROJECT",
+    demo: "https://area-ber-bra-mes-ale-evr.vercel.app/",
     featured: true,
   },
   {
